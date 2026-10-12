@@ -1,0 +1,20 @@
+VISOR SISMICO ESRI PANAMA - VERSION 4 / ARCGIS MAPS SDK FOR JAVASCRIPT
+
+Esta version migra el motor cartografico de Leaflet a ArcGIS Maps SDK for JavaScript 4.33.
+Conserva la interfaz de la v3, los 311 eventos y las cinco opciones de mapa base.
+
+ARCHIVOS: index.html, styles.css, app.js, eventos.json, logo-esri-panama-blanco.png.
+
+PRUEBA SIN REEMPLAZAR LA V3 PUBLICA:
+1. Descomprime el ZIP.
+2. Sube los cinco archivos a un repositorio nuevo (por ejemplo visor-sismico-panama-sdk).
+3. Activa GitHub Pages desde main / root.
+4. Espera el despliegue y abre la URL HTTPS de Pages.
+5. Prueba mapa, etiquetas, popup, animacion, filtros, ubicacion y visualizacion movil.
+
+REQUISITOS: Internet para cargar el SDK y las teselas Esri; HTTPS para geolocalizacion.
+NO abras index.html mediante file:// porque fetch(eventos.json) puede fallar.
+
+IMPORTANTE: esta es una primera migracion tecnica. No esta conectada aun a ArcGIS Enterprise,
+no actualiza automaticamente el JSON y requiere pruebas funcionales en navegador.
+La version 3 existente debe permanecer intacta hasta validar la version 4.
