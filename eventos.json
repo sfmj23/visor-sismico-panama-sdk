@@ -2070,6 +2070,15 @@
     "r": "Localizado en Panamá a 25km al noreste de Tonosí"
   },
   {
+    "x": -80.618,
+    "y": 7.602,
+    "t": "2026-10-11T03:42:03-05:00",
+    "m": 3.8,
+    "d": 14.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 29km al noroeste de Tonosí"
+  },
+  {
     "x": -80.68221,
     "y": 7.76238,
     "t": "2026-10-11T04:27:32-05:00",
@@ -2772,13 +2781,13 @@
     "r": "Localizado en Panamá a 33km al sur de Soná"
   },
   {
-    "x": -80.1602,
-    "y": 7.56935,
-    "t": "2026-10-11T21:22:28-05:00",
+    "x": -80.17217,
+    "y": 7.53583,
+    "t": "2026-10-11T21:22:27-05:00",
     "m": 4.5,
-    "d": 10.0,
-    "s": "PRELIMINAR",
-    "r": "Localizado en Panamá a 25km al sureste de Las Tablas"
+    "d": 5.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 28km al sureste de Las Tablas"
   },
   {
     "x": -80.67983,
@@ -2797,5 +2806,671 @@
     "d": 10.0,
     "s": "PRELIMINAR",
     "r": "Localizado en Sur de Panamá a 90km al sureste de Coiba"
+  },
+  {
+    "x": -81.41856,
+    "y": 7.73714,
+    "t": "2026-10-11T22:17:23-05:00",
+    "m": 4.1,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 32km al sur de Soná"
+  },
+  {
+    "x": -80.4953,
+    "y": 7.63514,
+    "t": "2026-10-11T22:19:29-05:00",
+    "m": 4.2,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 25km al norte de Tonosí"
+  },
+  {
+    "x": -81.27161,
+    "y": 6.55954,
+    "t": "2026-10-11T23:03:13-05:00",
+    "m": 4.5,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Sur de Panamá a 123km al sureste de Coiba"
+  },
+  {
+    "x": -80.65917,
+    "y": 7.60317,
+    "t": "2026-10-11T23:06:16-05:00",
+    "m": 4.5,
+    "d": 17.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 32km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.60734,
+    "y": 7.62977,
+    "t": "2026-10-11T23:15:02-05:00",
+    "m": 5.0,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 30km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.92806,
+    "y": 7.72904,
+    "t": "2026-10-11T23:47:24-05:00",
+    "m": 3.5,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 41km al sur de Santiago"
+  },
+  {
+    "x": -81.3478,
+    "y": 7.85291,
+    "t": "2026-10-11T23:49:21-05:00",
+    "m": 3.9,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 17km al sur de Soná"
+  },
+  {
+    "x": -80.5815,
+    "y": 7.44459,
+    "t": "2026-10-12T00:12:01-05:00",
+    "m": 4.1,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 16km al oeste de Tonosí"
+  },
+  {
+    "x": -81.3119,
+    "y": 7.69776,
+    "t": "2026-10-12T00:24:51-05:00",
+    "m": 3.6,
+    "d": 11.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 34km al sur de Soná"
+  },
+  {
+    "x": -80.73949,
+    "y": 7.62188,
+    "t": "2026-10-12T01:01:24-05:00",
+    "m": 3.5,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 40km al noroeste de Tonosí"
+  },
+  {
+    "x": -81.07642,
+    "y": 7.70825,
+    "t": "2026-10-12T01:16:20-05:00",
+    "m": 3.6,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 42km al sureste de Soná"
+  },
+  {
+    "x": -80.1095,
+    "y": 7.54301,
+    "t": "2026-10-12T01:27:29-05:00",
+    "m": 3.9,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 30km al sureste de Las Tablas"
+  },
+  {
+    "x": -80.96703,
+    "y": 7.21517,
+    "t": "2026-10-12T01:30:25-05:00",
+    "m": 4.0,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 61km al oeste de Tonosí"
+  },
+  {
+    "x": -80.58662,
+    "y": 7.43335,
+    "t": "2026-10-12T01:32:17-05:00",
+    "m": 4.1,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 16km al oeste de Tonosí"
+  },
+  {
+    "x": -81.04228,
+    "y": 7.84421,
+    "t": "2026-10-12T01:35:17-05:00",
+    "m": 3.5,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 29km al sur de Santiago"
+  },
+  {
+    "x": -80.72833,
+    "y": 7.62333,
+    "t": "2026-10-12T01:39:10-05:00",
+    "m": 3.1,
+    "d": 20.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 39km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.81233,
+    "y": 7.616,
+    "t": "2026-10-12T01:42:15-05:00",
+    "m": 3.1,
+    "d": 22.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 47km al noroeste de Tonosí"
+  },
+  {
+    "x": -81.4095,
+    "y": 7.73517,
+    "t": "2026-10-12T01:45:25-05:00",
+    "m": 2.7,
+    "d": 14.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 32km al sur de Soná"
+  },
+  {
+    "x": -80.569,
+    "y": 7.624,
+    "t": "2026-10-12T01:50:37-05:00",
+    "m": 3.2,
+    "d": 12.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 27km al noroeste de Tonosí"
+  },
+  {
+    "x": -81.36267,
+    "y": 7.56567,
+    "t": "2026-10-12T01:53:30-05:00",
+    "m": 3.0,
+    "d": 26.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 40km al este de Coiba"
+  },
+  {
+    "x": -80.80633,
+    "y": 7.64533,
+    "t": "2026-10-12T01:56:41-05:00",
+    "m": 2.9,
+    "d": 20.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 48km al noroeste de Tonosí"
+  },
+  {
+    "x": -81.33883,
+    "y": 7.801,
+    "t": "2026-10-12T01:57:17-05:00",
+    "m": 3.6,
+    "d": 15.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 23km al sur de Soná"
+  },
+  {
+    "x": -81.16417,
+    "y": 7.765,
+    "t": "2026-10-12T02:08:45-05:00",
+    "m": 3.1,
+    "d": 4.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 31km al sureste de Soná"
+  },
+  {
+    "x": -81.11977,
+    "y": 7.71377,
+    "t": "2026-10-12T02:10:08-05:00",
+    "m": 4.1,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 39km al sureste de Soná"
+  },
+  {
+    "x": -81.03931,
+    "y": 7.68852,
+    "t": "2026-10-12T02:16:05-05:00",
+    "m": 4.7,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 45km al sur de Santiago"
+  },
+  {
+    "x": -81.32538,
+    "y": 7.7467,
+    "t": "2026-10-12T02:19:16-05:00",
+    "m": 3.2,
+    "d": 10.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 29km al sur de Soná"
+  },
+  {
+    "x": -80.61285,
+    "y": 7.46362,
+    "t": "2026-10-12T02:20:46-05:00",
+    "m": 4.2,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 20km al oeste de Tonosí"
+  },
+  {
+    "x": -81.11273,
+    "y": 7.68217,
+    "t": "2026-10-12T02:27:31-05:00",
+    "m": 3.6,
+    "d": 13.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 42km al sureste de Soná"
+  },
+  {
+    "x": -81.16917,
+    "y": 7.68399,
+    "t": "2026-10-12T02:30:51-05:00",
+    "m": 3.2,
+    "d": 7.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 39km al sureste de Soná"
+  },
+  {
+    "x": -81.0282,
+    "y": 7.65577,
+    "t": "2026-10-12T02:35:39-05:00",
+    "m": 3.0,
+    "d": 11.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 49km al sur de Santiago"
+  },
+  {
+    "x": -80.55701,
+    "y": 7.65145,
+    "t": "2026-10-12T02:37:26-05:00",
+    "m": 3.4,
+    "d": 10.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 30km al noroeste de Tonosí"
+  },
+  {
+    "x": -81.33221,
+    "y": 7.74232,
+    "t": "2026-10-12T02:44:44-05:00",
+    "m": 3.7,
+    "d": 18.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 29km al sur de Soná"
+  },
+  {
+    "x": -81.45601,
+    "y": 7.71235,
+    "t": "2026-10-12T02:48:42-05:00",
+    "m": 4.0,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 33km al noreste de Coiba"
+  },
+  {
+    "x": -80.81783,
+    "y": 7.57833,
+    "t": "2026-10-12T02:52:36-05:00",
+    "m": 3.1,
+    "d": 14.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 45km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.60833,
+    "y": 7.6815,
+    "t": "2026-10-12T03:01:41-05:00",
+    "m": 3.3,
+    "d": 22.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 35km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.99475,
+    "y": 7.68856,
+    "t": "2026-10-12T03:05:11-05:00",
+    "m": 4.2,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 45km al sur de Santiago"
+  },
+  {
+    "x": -81.4795,
+    "y": 7.713,
+    "t": "2026-10-12T03:06:19-05:00",
+    "m": 3.2,
+    "d": 17.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 31km al noreste de Coiba"
+  },
+  {
+    "x": -80.41698,
+    "y": 7.06803,
+    "t": "2026-10-12T03:37:39-05:00",
+    "m": 4.2,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 37km al sur de Tonosí"
+  },
+  {
+    "x": -80.57379,
+    "y": 7.5167,
+    "t": "2026-10-12T03:55:10-05:00",
+    "m": 3.6,
+    "d": 5.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 19km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.66315,
+    "y": 7.32763,
+    "t": "2026-10-12T04:04:27-05:00",
+    "m": 4.1,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 26km al oeste de Tonosí"
+  },
+  {
+    "x": -80.07287,
+    "y": 7.47936,
+    "t": "2026-10-12T04:32:38-05:00",
+    "m": 4.4,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 39km al sureste de Las Tablas"
+  },
+  {
+    "x": -81.37659,
+    "y": 7.6391,
+    "t": "2026-10-12T04:59:01-05:00",
+    "m": 3.5,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 39km al este de Coiba"
+  },
+  {
+    "x": -81.03369,
+    "y": 7.67969,
+    "t": "2026-10-12T05:27:17-05:00",
+    "m": 3.8,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 46km al sur de Santiago"
+  },
+  {
+    "x": -80.7477,
+    "y": 7.55013,
+    "t": "2026-10-12T05:59:58-05:00",
+    "m": 4.5,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 37km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.64615,
+    "y": 7.54698,
+    "t": "2026-10-12T06:07:28-05:00",
+    "m": 4.4,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 27km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.7865,
+    "y": 7.6045,
+    "t": "2026-10-12T06:26:26-05:00",
+    "m": 3.8,
+    "d": 4.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 44km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.524,
+    "y": 7.6525,
+    "t": "2026-10-12T06:37:03-05:00",
+    "m": 4.1,
+    "d": 2.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 28km al norte de Tonosí"
+  },
+  {
+    "x": -80.3135,
+    "y": 7.42983,
+    "t": "2026-10-12T06:53:56-05:00",
+    "m": 4.5,
+    "d": 5.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 14km al este de Tonosí"
+  },
+  {
+    "x": -82.23448,
+    "y": 7.50139,
+    "t": "2026-10-12T07:03:07-05:00",
+    "m": 4.2,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Sur de Panamá a 56km al oeste de Coiba"
+  },
+  {
+    "x": -80.42,
+    "y": 7.564,
+    "t": "2026-10-12T07:12:51-05:00",
+    "m": 3.5,
+    "d": 1.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 17km al norte de Tonosí"
+  },
+  {
+    "x": -80.65317,
+    "y": 7.64283,
+    "t": "2026-10-12T07:31:14-05:00",
+    "m": 3.2,
+    "d": 14.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 35km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.68267,
+    "y": 7.60083,
+    "t": "2026-10-12T07:33:19-05:00",
+    "m": 3.2,
+    "d": 8.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 34km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.583,
+    "y": 7.8175,
+    "t": "2026-10-12T07:34:21-05:00",
+    "m": 2.9,
+    "d": 18.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 23km al suroeste de Chitré"
+  },
+  {
+    "x": -80.39017,
+    "y": 7.5395,
+    "t": "2026-10-12T07:36:33-05:00",
+    "m": 2.8,
+    "d": 16.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 15km al norte de Tonosí"
+  },
+  {
+    "x": -81.39117,
+    "y": 7.71633,
+    "t": "2026-10-12T08:05:49-05:00",
+    "m": 3.6,
+    "d": 10.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 33km al sur de Soná"
+  },
+  {
+    "x": -80.59283,
+    "y": 7.61355,
+    "t": "2026-10-12T08:17:21-05:00",
+    "m": 4.9,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 28km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.22742,
+    "y": 7.25935,
+    "t": "2026-10-12T08:45:31-05:00",
+    "m": 4.1,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 28km al sureste de Tonosí"
+  },
+  {
+    "x": -81.57129,
+    "y": 7.72965,
+    "t": "2026-10-12T08:47:49-05:00",
+    "m": 4.0,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 24km al noreste de Coiba"
+  },
+  {
+    "x": -85.72091,
+    "y": 9.77492,
+    "t": "2026-10-12T08:52:26-05:00",
+    "m": 3.5,
+    "d": 12.0,
+    "s": "REVISADO",
+    "r": "Localizado en Frente a la costa de Costa Rica a 331km al oeste de Río Sereno"
+  },
+  {
+    "x": -80.64935,
+    "y": 7.59655,
+    "t": "2026-10-12T09:11:35-05:00",
+    "m": 4.2,
+    "d": 3.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 31km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.65272,
+    "y": 7.6025,
+    "t": "2026-10-12T09:15:48-05:00",
+    "m": 4.1,
+    "d": 5.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 31km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.6995,
+    "y": 7.63528,
+    "t": "2026-10-12T09:23:31-05:00",
+    "m": 3.3,
+    "d": 3.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 38km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.3791,
+    "y": 7.53803,
+    "t": "2026-10-12T09:37:41-05:00",
+    "m": 4.0,
+    "d": 4.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 15km al noreste de Tonosí"
+  },
+  {
+    "x": -81.44476,
+    "y": 7.71716,
+    "t": "2026-10-12T10:02:00-05:00",
+    "m": 3.6,
+    "d": 5.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 35km al noreste de Coiba"
+  },
+  {
+    "x": -81.43707,
+    "y": 7.75425,
+    "t": "2026-10-12T10:13:59-05:00",
+    "m": 3.7,
+    "d": 10.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 31km al suroeste de Soná"
+  },
+  {
+    "x": -81.4143,
+    "y": 7.62388,
+    "t": "2026-10-12T10:27:01-05:00",
+    "m": 3.8,
+    "d": 4.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 35km al este de Coiba"
+  },
+  {
+    "x": -80.08421,
+    "y": 7.33965,
+    "t": "2026-10-12T10:32:40-05:00",
+    "m": 4.1,
+    "d": 12.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 39km al este de Tonosí"
+  },
+  {
+    "x": -82.25043,
+    "y": 9.09647,
+    "t": "2026-10-12T10:37:23-05:00",
+    "m": 3.3,
+    "d": 2.0,
+    "s": "REVISADO",
+    "r": "Localizado en Región Fronteriza Panamá-Costa Rica a 22km al noroeste de Chiriquí Grande"
+  },
+  {
+    "x": -81.48598,
+    "y": 7.69423,
+    "t": "2026-10-12T11:06:18-05:00",
+    "m": 3.5,
+    "d": 4.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 29km al noreste de Coiba"
+  },
+  {
+    "x": -80.71281,
+    "y": 7.77067,
+    "t": "2026-10-12T11:51:38-05:00",
+    "m": 3.3,
+    "d": 24.0,
+    "s": "REVISADO",
+    "r": "Localizado en Panamá a 37km al suroeste de Chitré"
+  },
+  {
+    "x": -80.67926,
+    "y": 7.54218,
+    "t": "2026-10-12T11:55:31-05:00",
+    "m": 3.5,
+    "d": 8.0,
+    "s": "REVISADO",
+    "r": "Localizado en a 30km al noroeste de Tonosí"
+  },
+  {
+    "x": -80.24709,
+    "y": 7.4953,
+    "t": "2026-10-12T12:09:29-05:00",
+    "m": 4.3,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 23km al noreste de Tonosí"
+  },
+  {
+    "x": -82.23464,
+    "y": 8.98939,
+    "t": "2026-10-12T12:30:07-05:00",
+    "m": 4.5,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Región Fronteriza Panamá-Costa Rica a 13km al oeste de Chiriquí Grande"
+  },
+  {
+    "x": -81.4464,
+    "y": 7.63212,
+    "t": "2026-10-12T12:38:30-05:00",
+    "m": 3.6,
+    "d": 10.0,
+    "s": "PRELIMINAR",
+    "r": "Localizado en Panamá a 31km al este de Coiba"
   }
 ]
